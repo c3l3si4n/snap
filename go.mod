@@ -1,4 +1,4 @@
-module snip
+module snap
 
 go 1.20
 
