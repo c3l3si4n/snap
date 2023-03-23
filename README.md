@@ -1,6 +1,6 @@
 # SNAP - Secure Nameserver Active Probing
 
-SNAP (Secure Nameserver Active Probing) is an advanced tool designed to detect DNS poisoning through the active probing of nameservers. It is highly effective in identifying servers that provide valid DNS responses for well-established domains.
+SNAP (Secure Nameserver Active Probing) is an advanced tool designed to validate public nameservers for DNS poisoning. It is highly effective in identifying servers that provide valid DNS responses for well-established domains.
 
 This can be considered a Golang alternative for @vortexau's [dnsvalidator](https://github.com/vortexau/dnsvalidator).
 
